@@ -12,7 +12,7 @@ where **Δ** is the **right Cauchy-Green deformation tensor**:
 
 Δ = (dϕ/dx₀)ᵀ · (dϕ/dx₀)
 
-and **ϕ** is the **flow map** , the final position of a particle seeded at **x₀** at time *t₀* after being advected for time *T*.
+and **ϕ** is the **flow map**, the final position of a particle seeded at **x₀** at time *t₀* after being advected for time *T*.
 
 **λ_max** is the largest eigenvalue of **Δ**. The flow map Jacobian **dϕ/dx₀** is the 2×2 matrix:
 
