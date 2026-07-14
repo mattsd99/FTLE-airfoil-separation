@@ -48,7 +48,7 @@ FTLE computation framework adapted from:
 
 Shadden, S.C., Lekien, F., Marsden, J.E. (2005). Definition and properties of Lagrangian coherent structures from finite-time Lyapunov exponents in two-dimensional aperiodic flows. Physica D, 212(3-4), 271–304.
 
-Extended and generalised for unstructured CSV velocity data, analytical NACA airfoil masking, phase-resolved visualisation, and animated output.
+Extended and generalised for unstructured CSV velocity data, analytical NACA airfoil masking, time-resolved visualisation, and animated output.
 
 Author
 Matt Duran — PhD, Mechanical Engineering, University of Central Florida
