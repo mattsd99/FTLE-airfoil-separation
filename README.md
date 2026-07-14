@@ -2,6 +2,9 @@
 
 The **Finite-Time Lyapunov Exponent (FTLE)** measures the maximum rate of stretching between neighbouring fluid particles over a finite integration time *T*. It quantifies how rapidly nearby trajectories diverge in a flow, revealing hidden material surfaces called **Lagrangian Coherent Structures (LCS)** that act as transport barriers in the flow.
 
+![Backward FTLE several time instances](ftle_backward_comparison.png)
+
+
 ## Data
 The full dataset (31 velocity field snapshots, NACA 0012 α=12°, Re=5×10⁵):
 
