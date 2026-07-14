@@ -6,7 +6,7 @@ The **Finite-Time Lyapunov Exponent (FTLE)** measures the maximum rate of stretc
 
 
 ## Data
-The full dataset (31 velocity field snapshots, NACA 0012 α=12°, Re=5×10⁵):
+The full dataset (31 velocity field snapshots, NACA 0012 α=12°, Re = 5×10<sup>4</sup>):
 
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-Download%20Dataset-blue?logo=googledrive)](https://drive.google.com/drive/folders/1mZT73kUixwulYAlUfqTtegU_ue_HAqiE?usp=sharing)
 
